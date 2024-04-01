@@ -532,3 +532,4 @@
 {"jsonrpc":"2.0","id":"\"1\"","result":629052}
 {"error":"{\"Error_GUID\":\"3737407812371333859\",\"Error\":\"Failed all retries {GUID:3737407812371333859,error:No pairings available.,chain_id:STRK}\"}"}
 {"jsonrpc":"2.0","id":"\"1\"","result":629059}
+{"jsonrpc":"2.0","id":"\"1\"","result":629062}
